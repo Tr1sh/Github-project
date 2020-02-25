@@ -1,0 +1,2 @@
+ grep -E -i -w "BRCA1|BRCA2" ~/seqs/SRR554120_UG_calls_myanno.hg19_multianno.csv | grep "nonsynonymous SNV"
+  grep -E "rs2814778" Crime-sample-2_UG_calls_myanno.hg19_multianno.csv
